@@ -1,9 +1,12 @@
 
-			Analyzing Visual Comedy 
+##### 	Analyzing Visual Comedy  #####
 
-Comedy-Faces.ipynb :	Analyzes facial expressions by capturing facial landmarks in funny faces
+Comedy-Faces.ipynb :	Analyzes facial expressions in comedy scenes
 
-Try it on sample video files: jim-carrey.mp4 or shri420.mp4
+Sample videos for testing : 
+
+			jim-carrey.mp4 - misc shots from Liar Liar 
+			shri420.mp4 - misc shots taken from Shri 420 (Ichak Dana Song)
 
 More scripts coming soon..
 
