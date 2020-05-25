@@ -1,14 +1,10 @@
 
 ##### 	Analyzing Visual Comedy  #####
 
-Comedy-Faces.ipynb :	Analyzes facial expressions in comedy scenes
+Comedy-Faces.ipynb :	Analyzes facial expressions in comedy scenes using OpenCV + DLib
 
-Sample videos for testing : 
+![Raj Kapoor Expressions](demos/shri-420.gif)
 
-			jim-carrey.mp4 - misc shots from Liar Liar 
-			shri420.mp4 - misc shots taken from Shri 420 (Ichak Dana Song)
+![Jim Carrey Expressions](demos/jim-carrey.gif)
 
-More scripts coming soon..
-
-
-Tech Stack: Python, Jupyter Notebook, OpenCV
+Tech Stack: Python, Jupyter Notebook, OpenCV, DLib
